@@ -1,0 +1,29 @@
+functions
+
+[oh-my-zsh] For safety, we will not load completions from these directories until
+[oh-my-zsh] you fix their permissions and ownership and restart zsh.
+  GNU nano 2.0.6              File: .gitignore
+
+
+:wq
+
+
+
+^[^[
+
+
+
+:wq
+
+
+
+
+
+
+
+
+
+
+                               [ Read 10 lines ]
+^G Get Help  ^O WriteOut  ^R Read File ^Y Prev Page ^K Cut Text  ^C Cur Pos
+^X Exit      ^J Justify   ^W Where Is  ^V Next Page ^U UnCut Text^T To Spell
